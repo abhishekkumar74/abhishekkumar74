@@ -1,4 +1,4 @@
-[[!masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">Building the Web, One Line of Code at a Time.</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek87098" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek87098?logo=twitter&style=for-the-badge" alt="abhishek87098" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"›
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Student Database.**
 
