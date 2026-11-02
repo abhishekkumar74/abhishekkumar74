@@ -5,11 +5,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1> 
 <h3 align="center">Building the Web, One Line of Code at a Time.</h3> 
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar74" alt="abhishekkumar74" />
-  </a> 
-</p> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhishekkumar74&theme=radical" alt="GitHub Streak" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
@@ -54,8 +52,8 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumar74&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar74&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekkumar74&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  
 </p>
 
 <p align="center">
